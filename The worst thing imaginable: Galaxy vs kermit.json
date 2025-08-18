@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1755479478",
       "groups": {
-        "Imgur": "/proxy/api/imgur/chapter/W5ME0EF"
+        "Imgur": [
+          "https://drive.usercontent.google.com/download?id=1OfTUZZtp3CFQVsPLE3dHjBDk5QpoOzmf"
+        ]
       }
     }
   }
