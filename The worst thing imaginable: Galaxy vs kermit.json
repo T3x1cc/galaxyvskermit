@@ -8,12 +8,9 @@
     "1": {
       "title": "1",
       "volume": "1",
-      "last_updated": "1755478306",
+      "last_updated": "1755479478",
       "groups": {
-        "Imgur": [
-          "https://imgur.com/a/W5ME0EF",
-          "https://imgur.com/a/W5ME0EF"
-        ]
+        "Imgur": "/proxy/api/imgur/chapter/W5ME0EF"
       }
     }
   }
