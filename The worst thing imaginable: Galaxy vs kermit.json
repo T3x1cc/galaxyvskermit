@@ -3,14 +3,15 @@
   "description": "What if galaxy and kermit fought. It’d truly be…",
   "artist": "THEINDIGOBOY",
   "author": "THEINDIGOBOY",
-  "cover": "",
+  "cover": "https://imgur.com/WdbSTuZ",
   "chapters": {
     "1": {
       "title": "1",
       "volume": "1",
       "last_updated": "1755478306",
       "groups": {
-        "what": [
+        "Imgur": [
+          "https://imgur.com/WdbSTuZ",
           "https://imgur.com/WdbSTuZ"
         ]
       }
